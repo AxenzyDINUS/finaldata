@@ -1,0 +1,10 @@
+{
+  "variant": "Variant_D_Att_FocalTversky",
+  "use_attention": true,
+  "loss": "Focal Tversky",
+  "mean_f1": 0.9573297502581262,
+  "agg_iou": 0.9345318268560332,
+  "threshold": 0.7499999999999999,
+  "phase1_epochs": 22,
+  "phase2_epochs": 23
+}
